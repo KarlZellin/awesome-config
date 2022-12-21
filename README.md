@@ -2,4 +2,4 @@
 
 This is my awesomeWM config, always getting better.
 
-***Have a nice day :)***
+***Have a nice day! :)***
