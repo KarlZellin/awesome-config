@@ -7,6 +7,7 @@ return {
 
      'picom --config ' .. filesystem.get_configuration_dir() .. 'configuration/picom.conf',
      '/usr/bin/emacs --daemon &',
+     'python3 /home/karl/.config/youtube-local/server.py &',
     -- 'nm-applet --indicator', -- wifi
     --'blueberry-tray', -- Bluetooth tray icon
     --'xfce4-power-manager', -- Power manager
